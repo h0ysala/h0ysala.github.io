@@ -10,7 +10,7 @@ layout: home
 
 * Exploring MicroPython example projects on 'Pico Pi' boards
 * Broke home build server after BIOS update failed
-* Pico Pi [work log](/pages/picopi_logs) - my findings and issue logs 
+* Pico Pi [work log](/pages/picopi_logs.html) - my findings and issue logs 
 
 ### Find me here
 
