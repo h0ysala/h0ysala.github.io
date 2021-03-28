@@ -6,6 +6,8 @@ layout: home
 
 > Content and view points are personal.
 
+![](https://heritage.h0ysala.net/_/51e8b5dfee2b12eb34ff660c82e80badaeb2c36004bc696d7ed662446dfcf0e1.png)
+
 ### Currently
 
 * Exploring MicroPython example projects on 'Pico Pi' boards
