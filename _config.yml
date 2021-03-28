@@ -1,0 +1,15 @@
+# General settings
+title: h0ysala
+email: no-reply@h0ysala.net
+description: >-
+    *(re)discover[ing].self(...)
+baseurl: ""
+url: "https://h0ysala.net"
+twitter_username: h0ysala
+github_username:  h0ysala
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-primer
+#theme: minima
+plugins:
+  - jekyll-feed
