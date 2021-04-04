@@ -8,6 +8,10 @@ layout: home
 
 ![](https://heritage.h0ysala.net/_/51e8b5dfee2b12eb34ff660c82e80badaeb2c36004bc696d7ed662446dfcf0e1.png)
 
+
+![](https://heritage.h0ysala.net/_/79f6d25399d34140afb431f8a2391e63f62c1261bcb70490a9851727a2c51662.JPG)
+`First sight at the camping site for this year.` 
+
 ### Currently
 
 * Exploring MicroPython example projects on 'Pico Pi' boards
