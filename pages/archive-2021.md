@@ -1,5 +1,6 @@
 ---
  layout: post
+ title:  Posts from rest of the site are archived here
 ---
 
 ## Archive

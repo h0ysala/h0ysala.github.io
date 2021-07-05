@@ -1,5 +1,6 @@
 ---
  layout: post
+ title: Barely formatted work log and thoughts related to MicroOS 
 ---
 
 

@@ -24,4 +24,4 @@ layout: home
 
 ### And more updates
 
-[Archive] (/pages/archive-2021.html)
+* [Archive 2021](/pages/archive-2021.html)
