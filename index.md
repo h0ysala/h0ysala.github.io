@@ -8,8 +8,8 @@ layout: home
 
 ### Currently
 
-* Updating toolchain crosstool-ng for multiple platforms [work log] (/pages/ct-ng_logs.html) 
-* Exploring MicroOS [work log](/pages/microos_logs.html) 
+* Updating toolchain crosstool-ng for multiple platforms - [work log](/pages/ct-ng_logs.html) 
+* Exploring MicroOS - [work log](/pages/microos_logs.html) 
 * Exploring MicroPython example projects on 'Pico Pi' boards
 * Broke home build server after BIOS update failed
 * Pico Pi [work log](/pages/picopi_logs.html) - my findings and issue logs 
