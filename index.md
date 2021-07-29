@@ -8,6 +8,7 @@ layout: home
 
 ### Currently
 
+* [CentOS 7 - NetInstall ](/pages/centos-7-netinstall.html) paths, some notes and screenshots
 * Updating toolchain crosstool-ng for multiple platforms - [work log](/pages/ct-ng_logs.html) 
 * Exploring MicroOS - [work log](/pages/microos_logs.html) 
 * Exploring MicroPython example projects on 'Pico Pi' boards
