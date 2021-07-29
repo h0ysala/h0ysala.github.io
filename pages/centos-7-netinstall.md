@@ -22,4 +22,4 @@ For x86_64 use arch=x86_64, x86 shown here is for 32 bit release.
 ![](https://heritage.h0ysala.net/_/70ddf617ecf61282bd5545c60879d09a971eaa1d4cdf355a79fec976d200fe86.png)
 
 
-##### Created 29.07.2021 -- @H0YSAL
+##### Created 29.07.2021 -- @H0YSALA
