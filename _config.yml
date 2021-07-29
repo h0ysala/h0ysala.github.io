@@ -13,3 +13,4 @@ theme: jekyll-theme-primer
 #theme: minima
 plugins:
   - jekyll-feed
+  - jemoji

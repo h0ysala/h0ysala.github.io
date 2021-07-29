@@ -4,16 +4,17 @@ layout: home
 
 **H0ysala's Openbook.**
 
-> Content and view points are personal.
+###### :exclamation: Content and view points are personal. 
 
 ### Currently
+
 
 * [CentOS 7 - NetInstall ](/pages/centos-7-netinstall.html) paths, some notes and screenshots
 * Updating toolchain crosstool-ng for multiple platforms - [work log](/pages/ct-ng_logs.html) 
 * Exploring MicroOS - [work log](/pages/microos_logs.html) 
 * Exploring MicroPython example projects on 'Pico Pi' boards
 * Broke home build server after BIOS update failed
-* Pico Pi [work log](/pages/picopi_logs.html) - my findings and issue logs 
+* Pico Pi [:page_with_curl: work log](/pages/picopi_logs.html) - my findings and issue logs 
 
 ### Find me here
 
