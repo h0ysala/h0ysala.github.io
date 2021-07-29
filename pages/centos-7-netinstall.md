@@ -4,7 +4,7 @@
 ---
 ## CentOS 7 - NetInstall
 
-A good friend of mine wanted to try out CentOS-7 x86, but stumbled into install issue on his age old system. While helping him out, I figured out documentation on several tricks/tips are barried 6 feet down. I'm adding few screen shots for the needy once.
+A good friend of mine wanted to try out CentOS-7 x86, but stumbled into install issue on his age old system. While helping him out, I figured out documentation on several tricks/tips are buried 6 feet down. I'm adding few screen shots for the needy once.
 
 #### Path for mirrorlist on the network  
 
